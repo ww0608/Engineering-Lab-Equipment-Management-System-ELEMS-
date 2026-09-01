@@ -1,6 +1,13 @@
 # Engineering Lab Equipment Management System (ELEMS) I
 A robust C++ management system designed to track, organize, and manage laboratory equipment. This project focuses on the practical application of Data Structures to ensure efficient data handling and retrieval.
 
+# Team Details
+- **Team Members**:
+  - Teh Feng Yue
+  - Teh Wen Wen
+  - Woon Kai-En
+  - Krithikaa Kumar
+
 # Key Features
 - Inventory Management: Add, update, and remove lab equipment records.
 - Search & Filter: Quickly find equipment based on specific criteria using optimized search logic.
